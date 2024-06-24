@@ -1,0 +1,2 @@
+# newsmag
+React News Application
